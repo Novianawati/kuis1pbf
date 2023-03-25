@@ -1,0 +1,27 @@
+{
+    "komik" : 
+        [
+            {
+                "id" : 1,
+                "nama" : "Operation : True Love",
+                "creator" : "kkokkalee , Dledumb"
+            },
+            {
+                "id" : 2,
+                "nama" : "WEE!!!",
+                "creator" : "Amoeba UwU"
+            },
+            {
+                "id" : 3,
+                "nama" : "Godly Idol",
+                "creator" : "White Bear , RENA"
+            }
+        ],
+    "Genre": [
+            {"id" : 1, "nama" : "Slice of Life"},
+            {"id" : 2, "nama" : "Fantacy"},
+            {"id" : 3, "nama" : "Romance"},
+            {"id" : 4, "nama" : "Horor"},
+            {"id" : 5, "nama" : "Action"}
+        ]
+    }
