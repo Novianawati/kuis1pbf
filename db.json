@@ -22,5 +22,25 @@
                 "thumbnail" : "https://swebtoon-phinf.pstatic.net/20220503_210/1651570081046ViITV_JPEG/0Mobile+Detail+Banner_23ff6d1e.jpg?type=crop540_540",
                 "creator" : "White Bear , RENA"
             }
+        ],
+    "insta": [
+            {
+                "id" : 1,
+                "nama" : "n.via01",
+                "profile" : "https://instagram.fsub8-2.fna.fbcdn.net/v/t51.2885-19/317168830_659434825587769_5614726404010201551_n.jpg?stp=dst-jpg_s150x150&_nc_ht=instagram.fsub8-2.fna.fbcdn.net&_nc_cat=101&_nc_ohc=QaeNcNJ1AjUAX9urRdB&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfBcFosQL8es41jdqLidGm8LUWw9sQGn1Tv0VW4xPwhq9g&oe=6428ABE3&_nc_sid=8fd12b",
+                "postingan" : "Hello world"
+            },
+            {
+                "id" : 2,
+                "nama" : "agustd",
+                "profile" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuih19j-zsnbODZPLFwmxq9Qtl8iBM-HkIqQ&usqp=CAU",
+                "postingan" : "We're comeback"
+            },
+            {
+                "id" : 3,
+                "nama" : "d.ddablue",
+                "profile" : "https://t-2.tstatic.net/trends/foto/bank/images/potret-dowoon-day6.jpg",
+                "postingan" : "Good morning"
+            }
         ]
     }
